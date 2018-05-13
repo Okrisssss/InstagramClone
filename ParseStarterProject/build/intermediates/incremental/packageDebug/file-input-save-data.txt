@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sun Apr 29 10:13:38 EEST 2018
+#Sun Apr 29 10:58:34 EEST 2018
 210.set=ANDROID_RESOURCE
 282.file=/Users/apple/Documents/Parse-Server-Starter-Project-4/ParseStarterProject/build/intermediates/res/resources-debug.ap_/res/drawable-xxhdpi-v4/ic_setting_dark.png
 14.set=ANDROID_RESOURCE
