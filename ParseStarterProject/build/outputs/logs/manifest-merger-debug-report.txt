@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/apple/Documents/Parse-Server-Starter-Project-4/ParseStarterProject/src/main/AndroidManifest.xml:9:1-35:12
-INJECTED from /Users/apple/Documents/Parse-Server-Starter-Project-4/ParseStarterProject/src/main/AndroidManifest.xml:9:1-35:12
-INJECTED from /Users/apple/Documents/Parse-Server-Starter-Project-4/ParseStarterProject/src/main/AndroidManifest.xml:9:1-35:12
-INJECTED from /Users/apple/Documents/Parse-Server-Starter-Project-4/ParseStarterProject/src/main/AndroidManifest.xml:9:1-35:12
+ADDED from /Users/apple/Documents/Parse-Server-Starter-Project-4/ParseStarterProject/src/main/AndroidManifest.xml:9:1-36:12
+INJECTED from /Users/apple/Documents/Parse-Server-Starter-Project-4/ParseStarterProject/src/main/AndroidManifest.xml:9:1-36:12
+INJECTED from /Users/apple/Documents/Parse-Server-Starter-Project-4/ParseStarterProject/src/main/AndroidManifest.xml:9:1-36:12
+INJECTED from /Users/apple/Documents/Parse-Server-Starter-Project-4/ParseStarterProject/src/main/AndroidManifest.xml:9:1-36:12
 MERGED from [com.google.android.gms:play-services:9.4.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-9.4.0.aar/b21293eb8d263a7b375c9e4340cd6344/AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/72ed87eb3d0e0966210a18ebb574b74a/AndroidManifest.xml:2:1-10:12
 MERGED from [com.google.android.gms:play-services-cast:9.4.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-cast-9.4.0.aar/88f514fdd26392f622c4ff397577d288/AndroidManifest.xml:16:1-20:12
@@ -60,20 +60,20 @@ MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /Users/apple/.gra
 MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.4.0.aar/26ba308b7671a21160561cef75359dfd/AndroidManifest.xml:16:1-26:12
 MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.4.0.aar/1692eaa9ec00b5630b0ed89354ac5bef/AndroidManifest.xml:2:1-9:12
 MERGED from [com.android.support:support-v4:23.4.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/3822c4718b931c78c364030c6b91c95f/AndroidManifest.xml:17:1-24:12
-INJECTED from /Users/apple/Documents/Parse-Server-Starter-Project-4/ParseStarterProject/src/main/AndroidManifest.xml:9:1-35:12
-INJECTED from /Users/apple/Documents/Parse-Server-Starter-Project-4/ParseStarterProject/src/main/AndroidManifest.xml:9:1-35:12
-INJECTED from /Users/apple/Documents/Parse-Server-Starter-Project-4/ParseStarterProject/src/main/AndroidManifest.xml:9:1-35:12
+INJECTED from /Users/apple/Documents/Parse-Server-Starter-Project-4/ParseStarterProject/src/main/AndroidManifest.xml:9:1-36:12
+INJECTED from /Users/apple/Documents/Parse-Server-Starter-Project-4/ParseStarterProject/src/main/AndroidManifest.xml:9:1-36:12
+INJECTED from /Users/apple/Documents/Parse-Server-Starter-Project-4/ParseStarterProject/src/main/AndroidManifest.xml:9:1-36:12
 	package
 		ADDED from /Users/apple/Documents/Parse-Server-Starter-Project-4/ParseStarterProject/src/main/AndroidManifest.xml:10:5-32
 		INJECTED from /Users/apple/Documents/Parse-Server-Starter-Project-4/ParseStarterProject/src/main/AndroidManifest.xml
 		INJECTED from /Users/apple/Documents/Parse-Server-Starter-Project-4/ParseStarterProject/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/apple/Documents/Parse-Server-Starter-Project-4/ParseStarterProject/src/main/AndroidManifest.xml
-		ADDED from /Users/apple/Documents/Parse-Server-Starter-Project-4/ParseStarterProject/src/main/AndroidManifest.xml:9:1-35:12
+		ADDED from /Users/apple/Documents/Parse-Server-Starter-Project-4/ParseStarterProject/src/main/AndroidManifest.xml:9:1-36:12
 		INJECTED from /Users/apple/Documents/Parse-Server-Starter-Project-4/ParseStarterProject/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/apple/Documents/Parse-Server-Starter-Project-4/ParseStarterProject/src/main/AndroidManifest.xml
-		ADDED from /Users/apple/Documents/Parse-Server-Starter-Project-4/ParseStarterProject/src/main/AndroidManifest.xml:9:1-35:12
+		ADDED from /Users/apple/Documents/Parse-Server-Starter-Project-4/ParseStarterProject/src/main/AndroidManifest.xml:9:1-36:12
 		INJECTED from /Users/apple/Documents/Parse-Server-Starter-Project-4/ParseStarterProject/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/apple/Documents/Parse-Server-Starter-Project-4/ParseStarterProject/src/main/AndroidManifest.xml:9:11-69
@@ -136,7 +136,7 @@ ADDED from /Users/apple/Documents/Parse-Server-Starter-Project-4/ParseStarterPro
 	android:name
 		ADDED from /Users/apple/Documents/Parse-Server-Starter-Project-4/ParseStarterProject/src/main/AndroidManifest.xml:15:22-76
 application
-ADDED from /Users/apple/Documents/Parse-Server-Starter-Project-4/ParseStarterProject/src/main/AndroidManifest.xml:17:5-33:19
+ADDED from /Users/apple/Documents/Parse-Server-Starter-Project-4/ParseStarterProject/src/main/AndroidManifest.xml:17:5-34:19
 MERGED from [com.google.android.gms:play-services:9.4.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-9.4.0.aar/b21293eb8d263a7b375c9e4340cd6344/AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services:9.4.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-9.4.0.aar/b21293eb8d263a7b375c9e4340cd6344/AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/72ed87eb3d0e0966210a18ebb574b74a/AndroidManifest.xml:5:5-9:19
@@ -256,9 +256,13 @@ ADDED from /Users/apple/Documents/Parse-Server-Starter-Project-4/ParseStarterPro
 	android:name
 		ADDED from /Users/apple/Documents/Parse-Server-Starter-Project-4/ParseStarterProject/src/main/AndroidManifest.xml:29:27-74
 activity#com.parse.starter.UserListActivity
-ADDED from /Users/apple/Documents/Parse-Server-Starter-Project-4/ParseStarterProject/src/main/AndroidManifest.xml:32:9-63
+ADDED from /Users/apple/Documents/Parse-Server-Starter-Project-4/ParseStarterProject/src/main/AndroidManifest.xml:32:9-54
 	android:name
 		ADDED from /Users/apple/Documents/Parse-Server-Starter-Project-4/ParseStarterProject/src/main/AndroidManifest.xml:32:19-51
+activity#com.parse.starter.UserFeedActivity
+ADDED from /Users/apple/Documents/Parse-Server-Starter-Project-4/ParseStarterProject/src/main/AndroidManifest.xml:33:9-63
+	android:name
+		ADDED from /Users/apple/Documents/Parse-Server-Starter-Project-4/ParseStarterProject/src/main/AndroidManifest.xml:33:19-51
 uses-sdk
 INJECTED from /Users/apple/Documents/Parse-Server-Starter-Project-4/ParseStarterProject/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/apple/Documents/Parse-Server-Starter-Project-4/ParseStarterProject/src/main/AndroidManifest.xml

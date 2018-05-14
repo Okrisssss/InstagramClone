@@ -508,12 +508,12 @@
         "source": "/Users/apple/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b095ea2266c86afa19081386cb6054b9/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
-        "merged": "/Users/apple/Documents/Parse-Server-Starter-Project-4/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4_quantum_ic_forward_30_white_36.png.flat",
-        "source": "/Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/72ed87eb3d0e0966210a18ebb574b74a/res/drawable-mdpi-v4/quantum_ic_forward_30_white_36.png"
-    },
-    {
         "merged": "/Users/apple/Documents/Parse-Server-Starter-Project-4/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_ic_plusone_tall_off_client.png.flat",
         "source": "/Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-plus-9.4.0.aar/0cd626d719b3f16509549a68e0640f6a/res/drawable-xxhdpi-v4/ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/Parse-Server-Starter-Project-4/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4_quantum_ic_forward_30_white_36.png.flat",
+        "source": "/Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/72ed87eb3d0e0966210a18ebb574b74a/res/drawable-mdpi-v4/quantum_ic_forward_30_white_36.png"
     },
     {
         "merged": "/Users/apple/Documents/Parse-Server-Starter-Project-4/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4_quantum_ic_skip_next_white_36.png.flat",
@@ -1362,6 +1362,10 @@
     {
         "merged": "/Users/apple/Documents/Parse-Server-Starter-Project-4/ParseStarterProject/build/intermediates/res/merged/debug/drawable_abc_item_background_holo_dark.xml.flat",
         "source": "/Users/apple/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b095ea2266c86afa19081386cb6054b9/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/Parse-Server-Starter-Project-4/ParseStarterProject/build/intermediates/res/merged/debug/layout_activity_user_feed.xml.flat",
+        "source": "/Users/apple/Documents/Parse-Server-Starter-Project-4/ParseStarterProject/src/main/res/layout/activity_user_feed.xml"
     },
     {
         "merged": "/Users/apple/Documents/Parse-Server-Starter-Project-4/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_search_api_mtrl_alpha.png.flat",

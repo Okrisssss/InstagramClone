@@ -15,6 +15,8 @@ import android.util.Log;
 import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
+import android.view.View;
+import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 import android.widget.Toast;
@@ -35,6 +37,7 @@ import java.util.List;
 public class UserListActivity extends AppCompatActivity {
 
     ListView userListView;
+
 
     @Override
     public void onRequestPermissionsResult(int requestCode, @NonNull String[] permissions, @NonNull int[] grantResults) {
@@ -112,16 +115,10 @@ public class UserListActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_user_list);
         initiateView();
-        userListaPapulating();
-    }
-
-    public void initiateView(){
-        userListView = (ListView) findViewById(R.id.userListView);
-    }
-
-    public void userListaPapulating(){
         final ArrayList<String> usernames = new ArrayList<>();
         final ArrayAdapter arrayAdapter =  new ArrayAdapter(this, android.R.layout.simple_list_item_1, usernames);
+
+
         userListView.setAdapter(arrayAdapter);
 
         ParseQuery<ParseUser> query = ParseUser.getQuery();
@@ -142,7 +139,23 @@ public class UserListActivity extends AppCompatActivity {
                 }
             }
         });
+
+
+
+        userListView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+            @Override
+            public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
+                Intent intent = new Intent(getApplicationContext(), UserFeedActivity.class);
+                intent.putExtra("username", usernames.get(i));
+                startActivity(intent);
+            }
+        });
     }
+
+    public void initiateView(){
+        userListView = (ListView) findViewById(R.id.userListView);
+    }
+
     public void getPhoto() {
         Intent intent = new Intent(Intent.ACTION_PICK, MediaStore.Images.Media.EXTERNAL_CONTENT_URI);
         startActivityForResult(intent, 1);
