@@ -69,6 +69,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     if (ParseUser.getCurrentUser() != null){
         showUserList ();
     }
+    setTitle("Instagram");
   }
 
   public  void  showUserList (){

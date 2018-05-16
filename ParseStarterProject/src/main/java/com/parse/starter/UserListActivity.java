@@ -72,6 +72,10 @@ public class UserListActivity extends AppCompatActivity {
             } else {
                 getPhoto();
             }
+        } else if (item.getItemId() == R.id.logout){
+            ParseUser.logOut();
+            Intent intent = new Intent(getApplicationContext(), MainActivity.class);
+            startActivity(intent);
         }
         return super.onOptionsItemSelected(item);
     }
@@ -154,6 +158,7 @@ public class UserListActivity extends AppCompatActivity {
 
     public void initiateView(){
         userListView = (ListView) findViewById(R.id.userListView);
+        setTitle("User Feed");
     }
 
     public void getPhoto() {
